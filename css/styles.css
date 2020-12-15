@@ -1701,7 +1701,7 @@ section .section-title {
 /* Hover Animation */
 .basic-2 .image-wrapper {
 	overflow: hidden;
-	margin-bottom: 1.5rem;
+	margin-bottom: 1.0rem;
 }
 
 .basic-2 .image-wrapper img {
@@ -1710,9 +1710,9 @@ section .section-title {
 }
 
 .basic-2 .image-wrapper:hover img {
-	-moz-transform: scale(1.15);
-	-webkit-transform: scale(1.15);
-	transform: scale(1.15);
+	-moz-transform: scale(1.1);
+	-webkit-transform: scale(1.1);
+	transform: scale(1.1);
 } 
 /* end of hover animation */
 
